@@ -23,8 +23,16 @@
 
 ## Дашборд
 
-🔗 https://datalens.yandex/hdps2igp11cq1
+🔗 [Открыть интерактивный дашборд](https://datalens.yandex/hdps2igp11cq1)
 
 ## Скриншоты
 
-*Будут добавлены позже*
+
+### Главная страница
+![Главная](images/dashboard_main.png)
+
+### LTV и средний чек
+![LTV](images/dashboard_ltv.png)
+
+### Retention Rate
+![Retention](images/dashboard_retention.png)
